@@ -1,0 +1,27 @@
+.custom-card {
+  position: relative;
+
+
+}
+
+.custom-icon {
+  font-size: 24px;
+  position: absolute;
+  top: 20px;
+  right: 20px;
+  cursor: pointer;
+  transition: .2s;
+
+}
+
+.custom-icon:hover {
+  filter: brightness(0.8)
+
+}
+
+.custom-image {
+  height: 208px;
+  object-fit: cover;
+
+
+}

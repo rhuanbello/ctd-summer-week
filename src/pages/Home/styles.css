@@ -1,0 +1,42 @@
+.main-header {
+  background-color: #FFFFFF;
+  padding: 5px 80px;
+
+}
+
+.main-header img {
+  width: 167px;
+
+}
+
+.main-content {
+  background-color: #E8E8E8;
+  min-height: 100vh;
+  padding: 50px 0;
+
+}
+
+.fab {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  z-index: 10;
+  cursor: pointer;
+  font-size: 48px;
+  color: green;
+  transition: .2s ease-in-out;
+
+}
+
+.fab:hover {
+  transform: scale(1.2)
+
+}
+
+.tabs {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+
+}
